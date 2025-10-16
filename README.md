@@ -22,6 +22,6 @@ Comparison of the effects of different scaling methods and dimensionality reduct
 
 Example of visualization:
 
-![comparison](comparison.png)
+![comparison](umap_comparison.png)
 
 Additionally, the results are evaluated using metrics like **Trustworthiness**, **Silhouette**, **ARI**, and **NMI**.
